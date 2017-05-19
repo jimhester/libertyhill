@@ -1,4 +1,4 @@
-baseurl = "https://example.org"
+baseurl = "https://jimhester.github.io/libertyhill/"
 title = "Liberty Hill HOA"
 theme = "hugo-universal-theme"
 languageCode = "en-us"
