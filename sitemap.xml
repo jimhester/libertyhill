@@ -2,48 +2,48 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://jimhester.github.io/libertyhill/blog/2017/05/01/tim-introduction/</loc>
+    <loc>https://jimhester.github.io/libertyhill/blog/2017/05/01/tim-introduction/</loc>
     <lastmod>2017-05-01T13:50:46+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://jimhester.github.io/libertyhill/blog/</loc>
-    <lastmod>2017-05-01T13:50:46+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://jimhester.github.io/libertyhill/categories/board-members/</loc>
+    <loc>https://jimhester.github.io/libertyhill/blog/</loc>
     <lastmod>2017-05-01T13:50:46+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://jimhester.github.io/libertyhill/categories/</loc>
+    <loc>https://jimhester.github.io/libertyhill/categories/board-members/</loc>
     <lastmod>2017-05-01T13:50:46+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://jimhester.github.io/libertyhill/contact/</loc>
-  </url>
-  
-  <url>
-    <loc>http://jimhester.github.io/libertyhill/donate/</loc>
-  </url>
-  
-  <url>
-    <loc>http://jimhester.github.io/libertyhill/information/</loc>
-  </url>
-  
-  <url>
-    <loc>http://jimhester.github.io/libertyhill/</loc>
+    <loc>https://jimhester.github.io/libertyhill/categories/</loc>
     <lastmod>2017-05-01T13:50:46+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://jimhester.github.io/libertyhill/tags/</loc>
+    <loc>https://jimhester.github.io/libertyhill/contact/</loc>
+  </url>
+  
+  <url>
+    <loc>https://jimhester.github.io/libertyhill/donate/</loc>
+  </url>
+  
+  <url>
+    <loc>https://jimhester.github.io/libertyhill/information/</loc>
+  </url>
+  
+  <url>
+    <loc>https://jimhester.github.io/libertyhill/</loc>
+    <lastmod>2017-05-01T13:50:46+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jimhester.github.io/libertyhill/tags/</loc>
     <priority>0</priority>
   </url>
   
