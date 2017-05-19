@@ -68,7 +68,9 @@ paginate = 10
     # Enable the contact form by entering your Formspree.io email
     email = "btee24@aol.com"
 
-    about_us = ""
+    about_us = """<p>We are the Liberty Hill Homeowners Association.<br><br>
+    Volunteers serving the interests of the residential homeowners in the Liberty Hill development.</p>"""
+
     copyright = "Copyright (c) 2017, Liberty Hill HOA; all rights reserved."
 
     # Format dates with Go's time formatting
@@ -87,7 +89,7 @@ paginate = 10
 
 # Enable and disable widgets for the right sidebar
 [params.widgets]
-    categories = true
+    categories = false
     tags = true
     search = false
 
