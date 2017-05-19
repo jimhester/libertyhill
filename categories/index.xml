@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Liberty Hill HOA</title>
-    <link>https://jimhester.github.io/libertyhill/categories/</link>
+    <link>http://jimhester.github.io/libertyhill/categories/</link>
     <description>Recent content in Categories on Liberty Hill HOA</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright (c) 2017, Liberty Hill HOA; all rights reserved.</copyright>
     <lastBuildDate>Mon, 01 May 2017 13:50:46 +0200</lastBuildDate>
     
-	<atom:link href="https://jimhester.github.io/libertyhill/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://jimhester.github.io/libertyhill/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Board Members</title>
-      <link>https://jimhester.github.io/libertyhill/categories/board-members/</link>
+      <link>http://jimhester.github.io/libertyhill/categories/board-members/</link>
       <pubDate>Mon, 01 May 2017 13:50:46 +0200</pubDate>
       
-      <guid>https://jimhester.github.io/libertyhill/categories/board-members/</guid>
+      <guid>http://jimhester.github.io/libertyhill/categories/board-members/</guid>
       <description></description>
     </item>
     
