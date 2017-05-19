@@ -1,7 +1,6 @@
 +++
 title = "Our New HOA President"
 date = "2017-05-01T13:50:46+02:00"
-draft = true
 categories = ["board members"]
 banner = "img/banners/tim.jpg"
 +++
