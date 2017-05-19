@@ -4,6 +4,9 @@ description = "Additional Information and useful links"
 +++
 
 ## Emergency Numbers
+<div class="table">
+
+{class="table"}
 |                                    |                 |
 | ---------------------------------- | --------------- |
 | Police, Fire Ambulance Emergency   | 911             |
@@ -13,6 +16,8 @@ description = "Additional Information and useful links"
 | Poison Control Center              | (216) 231-6333  |
 
 ## Solon Public Schools
+
+{class="table"}
 |                               |                |
 | ----------------------------- | ------------   |
 | Board Of Education            | (440) 248-1600 |
