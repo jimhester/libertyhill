@@ -9,7 +9,7 @@ function map () {
     var lat = $('#gmap-lat').val()
     var lng = $('#gmap-lng').val()
     var direction = $('#gmap-dir').val()
-    var image = '/libertyhill/img/marker.png'
+    var image = '/img/marker.png'
 
     var styles =
       [
