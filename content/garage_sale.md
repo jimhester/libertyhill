@@ -4,7 +4,7 @@ title = "Garage Sale"
 
 # Yearly Garage Sale
 
-![Garage Sale](/libertyhill/img/garage_sale_tags.png "Garage Sale")
+![Garage Sale](/img/garage_sale_tags.png "Garage Sale")
 
 ## Important Dates
 - August 4th (9:00-3:00)
