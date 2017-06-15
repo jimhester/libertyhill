@@ -7,4 +7,5 @@ id = "contact"
 
 - President: [Tim Stacey](mailto:btee24@aol.com)
 - Treasurer: [David Kuehner](mailto:ddk66b@yahoo.com)
-- Communication: [Julie Ogle](mailto:julie@jjogle.net)
+- Secretary: [Mackenzie Hester](mailto:mjhester7@gmail.com)
+- Website: [Jim Hester](mailto:james.f.hester@gmail.com)

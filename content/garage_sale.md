@@ -9,8 +9,8 @@ title = "Garage Sale"
 ## Important Dates
 - August 4th (9:00-3:00)
 - August 5th (9:00-3:00)
-- August 6th (11::-4:00)
+- August 6th (11:00-4:00)
 
 ### Registration Deadline July 15th
 
-# [Registration Form](/libertyhill/img/registration2017.pdf) #
+#### Additional Details to Follow ####
