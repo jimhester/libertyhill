@@ -3,6 +3,6 @@ title = "Dues and Donations"
 description = "Yearly membership dues and donations"
 +++
 
-# [Membership Registration Form](/img/2017membershipform.pdf) #
+<script src="https://donorbox.org/widget.js" type="text/javascript"></script><iframe src="https://donorbox.org/embed/libertyhillhoa-membership?amount=100&show_content=true" height="685px" width="100%" style="max-width:100%; min-width:100%; max-height:none!important" seamless="seamless" id="dbox-form-embed" name="donorbox" frameborder="0" scrolling="no"></iframe>
 
-<img src="/img/join.jpg" width="500px"/>
+# [Offline Membership Registration Form](/img/2017membershipform.pdf) #
