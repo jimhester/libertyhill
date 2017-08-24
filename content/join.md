@@ -1,5 +1,5 @@
 +++
-title = "Dues and Donations"
+title = "Membership Dues and Donations"
 description = "Yearly membership dues and donations"
 +++
 
