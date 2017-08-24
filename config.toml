@@ -25,9 +25,9 @@ paginate = 10
     weight = 2
 
 [[menu.main]]
-    name = "Donate"
-    identifier = "donate"
-    url  = "/Donate/"
+    name = "Join"
+    identifier = "join"
+    url  = "/join/"
     weight = 3
 
 [[menu.main]]
