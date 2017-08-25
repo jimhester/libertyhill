@@ -1,4 +1,4 @@
-baseurl = "http://www.libertyhillhoa.net/"
+baseurl = "https://www.libertyhillhoa.net/"
 title = "Liberty Hill HOA"
 theme = "hugo-universal-theme"
 languageCode = "en-us"
