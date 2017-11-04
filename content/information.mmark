@@ -3,7 +3,7 @@ title = "Information"
 description = "Additional Information and useful links"
 +++
 
-<a href="/img/HOAfinal.pdf"><img src="/img/howard-hanna.png"></a>
+<embed src="/img/HOAfinal.pdf" width="100%" height="1024" type='application/pdf'>
 
 ## Solon Links
 
