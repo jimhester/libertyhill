@@ -36,11 +36,11 @@ paginate = 10
     url  = "/information/"
     weight = 4
 
-#[[menu.main]]
-    #name = "Garage Sale"
-    #identifier = "garage_sale"
-    #url  = "/garage_sale/"
-    #weight = 5
+[[menu.main]]
+    name = "Garage Sale"
+    identifier = "garage_sale"
+    url  = "/garage_sale/"
+    weight = 5
 
 [[menu.main]]
     name = "Contact"

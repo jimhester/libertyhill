@@ -1,4 +1,10 @@
 weight: 1
-title: "November Events"
+title: "HOA Garage Sale"
 description: >
-image: "img/carousel/november-meeting.jpg"
+  <ul class="list-style-none">
+  <li><a style="color:#fff" href="garage_sale/">Register today!</a></li>
+    <li>August 3th (9:00 AM - 3:00 PM)</li>
+    <li>August 4th (9:00 AM - 3:00 PM)</li>
+    <li>August 5th (11:00 AM - 4:00 PM)</li>
+  </ul>
+image: "/img/garagesale.jpg"

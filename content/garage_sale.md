@@ -13,7 +13,7 @@ title = "Garage Sale"
 
 <script src="https://donorbox.org/widget.js"
 type="text/javascript"></script><iframe
-src="https://donorbox.org/embed/garage-sale-2018" height="685px" width="100%"
+src="https://donorbox.org/embed/garage-sale-2018?show_content=true" height="685px" width="100%"
 style="max-width:500px; min-width:310px; max-height:none!important"
 seamless="seamless" id="dbox-form-embed" name="donorbox" frameborder="0"
 scrolling="no"></iframe>
