@@ -19,3 +19,5 @@ src="https://donorbox.org/embed/garage-sale-2018?show_content=true" height="685p
 style="max-width:500px; min-width:310px; max-height:none!important"
 seamless="seamless" id="dbox-form-embed" name="donorbox" frameborder="0"
 scrolling="no"></iframe>
+
+# [Offline Garage Sale Registration Form](/img/2019LHHOA_Garage_Sale.jpg) #
