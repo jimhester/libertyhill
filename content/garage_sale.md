@@ -2,12 +2,14 @@
 title = "Garage Sale"
 +++
 
-<img src="/img/garagesale.jpg" alt="Garage Sale" width="400">
+<img src="/img/garage-sale-2019.jpg" alt="Garage Sale" width="400">
 
 ## The Garage Sale will be held on
-- August 3th (9:00 AM - 3:00 PM)
-- August 4th (9:00 AM - 3:00 PM)
-- August 5th (11:00 AM - 4:00 PM)
+- June 21st (9:00 AM - 3:00 PM)
+- June 22nd (9:00 AM - 3:00 PM)
+- June 23rd (11:00 AM - 4:00 PM)
+
+### Registration deadline - June 15th
 
 <!--<img src="/img/2017_Liberty_Hill_Garage_Sale_Map.png">-->
 
