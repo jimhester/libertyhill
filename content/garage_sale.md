@@ -4,7 +4,7 @@ title = "Garage Sale"
 
 <img src="/img/garage-sale-2019.jpg" alt="Garage Sale" width="400">
 
-## The Garage Sale will be held on
+## The 2019 Garage Sale will be held on
 - June 21st (9:00 AM - 3:00 PM)
 - June 22nd (9:00 AM - 3:00 PM)
 - June 23rd (11:00 AM - 4:00 PM)
@@ -20,4 +20,4 @@ style="max-width:500px; min-width:310px; max-height:none!important"
 seamless="seamless" id="dbox-form-embed" name="donorbox" frameborder="0"
 scrolling="no"></iframe>
 
-# [Offline Garage Sale Registration Form](/img/2019LHHOA_Garage_Sale.jpg) #
+# [Offline 2019 Garage Sale Registration Form](/img/2019LHHOA_Garage_Sale.jpg) #
