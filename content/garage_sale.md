@@ -4,12 +4,12 @@ title = "Garage Sale"
 
 <img src="/img/garage-sale-2019.jpg" alt="Garage Sale" width="400">
 
-## The 2019 Garage Sale will be held on
-- June 21st (9:00 AM - 3:00 PM)
-- June 22nd (9:00 AM - 3:00 PM)
-- June 23rd (11:00 AM - 4:00 PM)
+## The 2020 Garage Sale will be held on
+- July 31st (9:00 AM - 3:00 PM)
+- Aug 1st (9:00 AM - 3:00 PM)
+- Aug 2nd (11:00 AM - 4:00 PM)
 
-### Registration deadline - June 15th
+### Registration deadline - July 25th
 
 <!--<img src="/img/2017_Liberty_Hill_Garage_Sale_Map.png">-->
 
@@ -20,4 +20,4 @@ style="max-width:500px; min-width:310px; max-height:none!important"
 seamless="seamless" id="dbox-form-embed" name="donorbox" frameborder="0"
 scrolling="no"></iframe>
 
-# [Offline 2019 Garage Sale Registration Form](/img/2019LHHOA_Garage_Sale.jpg) #
+# [Offline 2020 Garage Sale Registration Form](/img/2019LHHOA_Garage_Sale.jpg) #
