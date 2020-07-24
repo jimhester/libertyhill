@@ -20,4 +20,4 @@ style="max-width:500px; min-width:310px; max-height:none!important"
 seamless="seamless" id="dbox-form-embed" name="donorbox" frameborder="0"
 scrolling="no"></iframe>
 
-# [Offline 2020 Garage Sale Registration Form](/img/2019LHHOA_Garage_Sale.jpg) #
+# [Offline 2020 Garage Sale Registration Form](/img/garage-sale-2020.jpg) #
